@@ -1,5 +1,5 @@
 # c5_portfolio
-
+####Make sure your portfolio files are included in a repo forked from this repo
 ### V2.0 scope:
 
 - 1 "about me" section / page
